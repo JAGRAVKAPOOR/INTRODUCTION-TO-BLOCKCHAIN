@@ -7,6 +7,7 @@
 3. mine goerliETH from(https://goerli-faucet.pk910.de/)
 4. mine more than 0.01 goerliETH from there
 
+![METAMASK](https://github.com/JAGRAVKAPOOR/INTRODUCTION-TO-BLOCKCHAIN/assets/119727960/1bb70f2a-91fe-49e6-b242-499232caed65)
 
 
 # 20lab
